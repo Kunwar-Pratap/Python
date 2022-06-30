@@ -1,3 +1,5 @@
+# Python program that takes input from the user and performs calculations-->
+
 a = int(input("Enter first value: "))
 b = input("Enter an operator (+, -, *, /): ")
 c = int(input("Enter second value: "))
